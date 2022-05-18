@@ -1,9 +1,6 @@
-Hello there 
 
-
-i am a text editor you can write your code here.
-
-
-
-howdyyyy.......
+a = 10
+b = 20
+c= a+b
+print(c)
 
